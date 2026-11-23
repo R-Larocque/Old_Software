@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DicResume xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BadBlocks />
+  <CreationDate>2026-11-23T17:18:41.8011684Z</CreationDate>
+  <LastBlock>302370</LastBlock>
+  <LastWriteDate>2026-11-23T17:20:04.0517497Z</LastWriteDate>
+  <NextBlock>26080</NextBlock>
+  <Removable>true</Removable>
+  <Tape>false</Tape>
+  <BadSubchannels />
+  <Tries>
+    <DumpTry>
+      <Manufacturer>HL-DT-ST</Manufacturer>
+      <Model>DVDRAM GU70N</Model>
+      <Firmware>LS20</Firmware>
+      <Serial>M2FDBDK5936</Serial>
+      <Extents>
+        <Extent>
+          <Start>0</Start>
+          <End>26079</End>
+        </Extent>
+      </Extents>
+      <Software>
+        <Name>Aaru</Name>
+        <Version>5.4.2.0</Version>
+        <OperatingSystem>Linux</OperatingSystem>
+      </Software>
+    </DumpTry>
+  </Tries>
+</DicResume>

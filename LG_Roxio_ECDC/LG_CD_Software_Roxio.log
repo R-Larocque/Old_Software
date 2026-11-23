@@ -1,0 +1,67 @@
+Start logging at 23/11/2026 07:51:54
+################# System information #################
+Linux 7.3.0.10 (64-bit)
+.NET 8.0.20
+
+################# Program information ################
+Aaru 5.4.2+7266fca8.7266fca89be6b5182e7bfcba7243f76809df2a93
+Running in 64-bit
+Running as superuser: No
+Command line: /home/raphael/Documents/MPF/MPF.Avalonia_net11.0_linux-x64_debug/Programs/Aaru/aaru media dump -p 0 --subchannel none --speed 24 /dev/sr0 ./LG_CD_Software_Roxio.aaruf
+
+################# Device information #################
+Manufacturer: HL-DT-ST
+Model: DVDRAM GU70N
+Firmware revision: LS20
+Serial number: M2FDBDK5936
+Removable device: True
+Device type: ATAPI
+CompactFlash device: False
+PCMCIA device: False
+USB device: False
+FireWire device: False
+######################################################
+
+################ Dumping progress log ################
+2026-11-23T07:51:54 Output image format: Aaru Format.
+2026-11-23T07:51:54 Device not in database, please create a device report and attach it to a Github issue.
+2026-11-23T07:51:54 Device not ready. Sense NotReady ASC 04h ASCQ 01h
+2026-11-23T07:51:56 Device not ready. Sense UnitAttentionh ASC 28h ASCQ 00h
+2026-11-23T07:51:58 Device reports current profile is 0x0008
+2026-11-23T07:51:58 Reading full TOC
+2026-11-23T07:51:58 Building track map...
+2026-11-23T07:51:58 Checking if drive supports PQ subchannel reading...
+2026-11-23T07:52:00 Checking if drive supports full raw subchannel reading...
+2026-11-23T07:52:00 Full raw subchannel reading supported...
+2026-11-23T07:52:02 Drive returns subchannel in BCD...
+2026-11-23T07:52:02 Calculating pregaps, can take some time...
+2026-11-23T07:52:02 Reading ATIP
+2026-11-23T07:52:02 Reading Disc Information
+2026-11-23T07:52:02 Reading PMA
+2026-11-23T07:52:02 Reading Session Information
+2026-11-23T07:52:02 Reading CD-Text from Lead-In
+2026-11-23T07:52:02 Detecting disc type...
+2026-11-23T07:52:02 Checking mode for track 1...
+2026-11-23T07:52:02 Track 1 is MODE2 FORM 1
+2026-11-23T07:52:03 Reading 32 sectors at a time.
+2026-11-23T07:52:03 Device reports 56052 blocks (137215296 bytes).
+2026-11-23T07:52:03 Device can read 32 blocks at a time.
+2026-11-23T07:52:03 Device reports 2448 bytes per logical block.
+2026-11-23T07:52:03 SCSI device type: MultiMediaDevice.
+2026-11-23T07:52:03 Media identified as CDROMXA.
+2026-11-23T07:52:03 Creating subchannel log in ./LG_CD_Software_Roxio.sub.log
+2026-11-23T07:52:03 Setting flags for track 1...
+2026-11-23T07:52:03 No audio tracks, disabling offset fix.
+2026-11-23T07:52:03 Drive reading offset is 192 bytes (48 samples).
+2026-11-23T07:52:03 Disc write offset is unknown, dump may not be correct.
+2026-11-23T07:52:03 Setting speed to 24x.
+2026-11-23T07:53:22 Dump finished in 79,7657229 seconds.
+2026-11-23T07:53:22 Average dump speed 10096,572 KiB/sec.
+2026-11-23T07:53:22 Average write speed 2025,950 KiB/sec.
+2026-11-23T07:53:22 Closing output file.
+2026-11-23T07:53:24 Creating sidecar.
+2026-11-23T07:53:50 Sidecar created in 26,1783016 seconds.
+2026-11-23T07:53:50 Average checksum speed 5118,808 KiB/sec.
+2026-11-23T07:53:50 Found filesystem ISO9660 at sector 0
+######################################################
+End logging at 23/11/2026 07:53:50

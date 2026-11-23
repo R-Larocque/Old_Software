@@ -1,0 +1,70 @@
+Start logging at 23/11/2026 12:28:22
+################# System information #################
+Linux 7.3.0.10 (64-bit)
+.NET 8.0.20
+
+################# Program information ################
+Aaru 5.4.2+7266fca8.7266fca89be6b5182e7bfcba7243f76809df2a93
+Running in 64-bit
+Running as superuser: No
+Command line: /home/raphael/Documents/MPF/MPF.Avalonia_net11.0_linux-x64_debug/Programs/Aaru/aaru media dump -p 0 --subchannel none --speed 24 /dev/sr0 ./Adobe_Elements_2_0.aaruf
+
+################# Device information #################
+Manufacturer: HL-DT-ST
+Model: DVDRAM GU70N
+Firmware revision: LS20
+Serial number: M2FDBDK5936
+Removable device: True
+Device type: ATAPI
+CompactFlash device: False
+PCMCIA device: False
+USB device: False
+FireWire device: False
+######################################################
+
+################ Dumping progress log ################
+2026-11-23T12:28:22 Output image format: Aaru Format.
+2026-11-23T12:28:22 Device not in database, please create a device report and attach it to a Github issue.
+2026-11-23T12:28:22 Device not ready. Sense NotReady ASC 04h ASCQ 01h
+2026-11-23T12:28:25 Device not ready. Sense NotReadyh ASC 04h ASCQ 01h
+2026-11-23T12:28:27 Device not ready. Sense NotReadyh ASC 04h ASCQ 01h
+2026-11-23T12:28:29 Device not ready. Sense NotReadyh ASC 04h ASCQ 01h
+2026-11-23T12:28:32 Device reports current profile is 0x0008
+2026-11-23T12:28:32 Reading full TOC
+2026-11-23T12:28:32 Building track map...
+2026-11-23T12:28:32 Checking if drive supports PQ subchannel reading...
+2026-11-23T12:28:33 Checking if drive supports full raw subchannel reading...
+2026-11-23T12:28:33 Full raw subchannel reading supported...
+2026-11-23T12:28:33 Drive returns subchannel in BCD...
+2026-11-23T12:28:33 Calculating pregaps, can take some time...
+2026-11-23T12:28:33 Reading ATIP
+2026-11-23T12:28:34 Reading Disc Information
+2026-11-23T12:28:34 Reading PMA
+2026-11-23T12:28:34 Reading Session Information
+2026-11-23T12:28:34 Reading CD-Text from Lead-In
+2026-11-23T12:28:35 Detecting disc type...
+2026-11-23T12:28:35 Checking mode for track 1...
+2026-11-23T12:28:35 Track 1 is MODE1
+2026-11-23T12:28:35 Reading 32 sectors at a time.
+2026-11-23T12:28:35 Device reports 330666 blocks (809470368 bytes).
+2026-11-23T12:28:35 Device can read 32 blocks at a time.
+2026-11-23T12:28:35 Device reports 2448 bytes per logical block.
+2026-11-23T12:28:35 SCSI device type: MultiMediaDevice.
+2026-11-23T12:28:35 Media identified as CDROM.
+2026-11-23T12:28:35 Creating subchannel log in ./Adobe_Elements_2_0.sub.log
+2026-11-23T12:28:35 Setting flags for track 1...
+2026-11-23T12:28:35 No audio tracks, disabling offset fix.
+2026-11-23T12:28:35 Drive reading offset is 192 bytes (48 samples).
+2026-11-23T12:28:35 Disc write offset is unknown, dump may not be correct.
+2026-11-23T12:28:35 Setting speed to 24x.
+2026-11-23T12:34:24 Dump finished in 348,9489221 seconds.
+2026-11-23T12:34:24 Average dump speed 13676,721 KiB/sec.
+2026-11-23T12:34:24 Average write speed 2736,230 KiB/sec.
+2026-11-23T12:34:24 Closing output file.
+2026-11-23T12:34:28 Creating sidecar.
+2026-11-23T12:36:41 Sidecar created in 132,7658801 seconds.
+2026-11-23T12:36:41 Average checksum speed 5954,096 KiB/sec.
+2026-11-23T12:36:41 Found filesystem ISO9660 at sector 0
+2026-11-23T12:36:41 Found filesystem HFS at sector 140371
+######################################################
+End logging at 23/11/2026 12:36:41

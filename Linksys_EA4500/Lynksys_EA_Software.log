@@ -1,0 +1,65 @@
+Start logging at 23/11/2026 09:10:53
+################# System information #################
+Linux 7.3.0.10 (64-bit)
+.NET 8.0.20
+
+################# Program information ################
+Aaru 5.4.2+7266fca8.7266fca89be6b5182e7bfcba7243f76809df2a93
+Running in 64-bit
+Running as superuser: No
+Command line: /home/raphael/Documents/MPF/MPF.Avalonia_net11.0_linux-x64_debug/Programs/Aaru/aaru media dump -p 0 --subchannel none --speed 24 /dev/sr0 ./Lynksys_EA_Software.aaruf
+
+################# Device information #################
+Manufacturer: HL-DT-ST
+Model: DVDRAM GU70N
+Firmware revision: LS20
+Serial number: M2FDBDK5936
+Removable device: True
+Device type: ATAPI
+CompactFlash device: False
+PCMCIA device: False
+USB device: False
+FireWire device: False
+######################################################
+
+################ Dumping progress log ################
+2026-11-23T09:10:53 Output image format: Aaru Format.
+2026-11-23T09:10:53 Device not in database, please create a device report and attach it to a Github issue.
+2026-11-23T09:10:53 Device reports current profile is 0x0008
+2026-11-23T09:10:53 Reading full TOC
+2026-11-23T09:10:53 Building track map...
+2026-11-23T09:10:53 Checking if drive supports PQ subchannel reading...
+2026-11-23T09:10:53 Checking if drive supports full raw subchannel reading...
+2026-11-23T09:10:53 Full raw subchannel reading supported...
+2026-11-23T09:10:53 Drive returns subchannel in BCD...
+2026-11-23T09:10:53 Calculating pregaps, can take some time...
+2026-11-23T09:10:53 Reading ATIP
+2026-11-23T09:10:53 Reading Disc Information
+2026-11-23T09:10:53 Reading PMA
+2026-11-23T09:10:53 Reading Session Information
+2026-11-23T09:10:53 Reading CD-Text from Lead-In
+2026-11-23T09:10:53 Detecting disc type...
+2026-11-23T09:10:54 Checking mode for track 1...
+2026-11-23T09:10:54 Track 1 is MODE1
+2026-11-23T09:10:54 Reading 32 sectors at a time.
+2026-11-23T09:10:54 Device reports 31559 blocks (77256432 bytes).
+2026-11-23T09:10:54 Device can read 32 blocks at a time.
+2026-11-23T09:10:54 Device reports 2448 bytes per logical block.
+2026-11-23T09:10:54 SCSI device type: MultiMediaDevice.
+2026-11-23T09:10:54 Media identified as CDROM.
+2026-11-23T09:10:54 Creating subchannel log in ./Lynksys_EA_Software.sub.log
+2026-11-23T09:10:54 Setting flags for track 1...
+2026-11-23T09:10:54 No audio tracks, disabling offset fix.
+2026-11-23T09:10:54 Drive reading offset is 192 bytes (48 samples).
+2026-11-23T09:10:54 Disc write offset is unknown, dump may not be correct.
+2026-11-23T09:10:54 Setting speed to 24x.
+2026-11-23T09:11:39 Dump finished in 44,6973293 seconds.
+2026-11-23T09:11:39 Average dump speed 11840,572 KiB/sec.
+2026-11-23T09:11:39 Average write speed 1979,238 KiB/sec.
+2026-11-23T09:11:39 Closing output file.
+2026-11-23T09:11:40 Creating sidecar.
+2026-11-23T09:11:49 Sidecar created in 8,8400202 seconds.
+2026-11-23T09:11:49 Average checksum speed 8534,836 KiB/sec.
+2026-11-23T09:11:49 Found filesystem ISO9660 at sector 0
+######################################################
+End logging at 23/11/2026 09:11:49

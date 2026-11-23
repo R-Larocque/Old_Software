@@ -1,0 +1,65 @@
+Start logging at 23/11/2026 00:00:49
+################# System information #################
+Linux 7.3.0.10 (64-bit)
+.NET 8.0.20
+
+################# Program information ################
+Aaru 5.4.2+7266fca8.7266fca89be6b5182e7bfcba7243f76809df2a93
+Running in 64-bit
+Running as superuser: No
+Command line: /home/raphael/Documents/MPF/MPF.Avalonia_net11.0_linux-x64_debug/Programs/Aaru/aaru media dump -p 0 --subchannel none --speed 24 /dev/sr0 ./Palm_IIIxe_Handheld_3.1.aaruf
+
+################# Device information #################
+Manufacturer: HL-DT-ST
+Model: DVDRAM GU70N
+Firmware revision: LS20
+Serial number: M2FDBDK5936
+Removable device: True
+Device type: ATAPI
+CompactFlash device: False
+PCMCIA device: False
+USB device: False
+FireWire device: False
+######################################################
+
+################ Dumping progress log ################
+2026-11-23T00:00:49 Output image format: Aaru Format.
+2026-11-23T00:00:49 Device not in database, please create a device report and attach it to a Github issue.
+2026-11-23T00:00:49 Device reports current profile is 0x0008
+2026-11-23T00:00:49 Reading full TOC
+2026-11-23T00:00:49 Building track map...
+2026-11-23T00:00:49 Checking if drive supports PQ subchannel reading...
+2026-11-23T00:00:49 Checking if drive supports full raw subchannel reading...
+2026-11-23T00:00:49 Full raw subchannel reading supported...
+2026-11-23T00:00:49 Drive returns subchannel in BCD...
+2026-11-23T00:00:49 Calculating pregaps, can take some time...
+2026-11-23T00:00:49 Reading ATIP
+2026-11-23T00:00:49 Reading Disc Information
+2026-11-23T00:00:49 Reading PMA
+2026-11-23T00:00:50 Reading Session Information
+2026-11-23T00:00:50 Reading CD-Text from Lead-In
+2026-11-23T00:00:50 Detecting disc type...
+2026-11-23T00:00:50 Checking mode for track 1...
+2026-11-23T00:00:50 Track 1 is MODE1
+2026-11-23T00:00:50 Reading 32 sectors at a time.
+2026-11-23T00:00:50 Device reports 54407 blocks (133188336 bytes).
+2026-11-23T00:00:50 Device can read 32 blocks at a time.
+2026-11-23T00:00:50 Device reports 2448 bytes per logical block.
+2026-11-23T00:00:50 SCSI device type: MultiMediaDevice.
+2026-11-23T00:00:50 Media identified as CDROM.
+2026-11-23T00:00:50 Creating subchannel log in ./Palm_IIIxe_Handheld_3.1.sub.log
+2026-11-23T00:00:50 Setting flags for track 1...
+2026-11-23T00:00:50 No audio tracks, disabling offset fix.
+2026-11-23T00:00:50 Drive reading offset is 192 bytes (48 samples).
+2026-11-23T00:00:50 Disc write offset is unknown, dump may not be correct.
+2026-11-23T00:00:50 Setting speed to 24x.
+2026-11-23T00:01:59 Dump finished in 68,6341706 seconds.
+2026-11-23T00:01:59 Average dump speed 4988,461 KiB/sec.
+2026-11-23T00:01:59 Average write speed 3091,871 KiB/sec.
+2026-11-23T00:01:59 Closing output file.
+2026-11-23T00:02:00 Creating sidecar.
+2026-11-23T00:02:23 Sidecar created in 21,9468846 seconds.
+2026-11-23T00:02:23 Average checksum speed 5926,542 KiB/sec.
+2026-11-23T00:02:23 Found filesystem ISO9660 at sector 0
+######################################################
+End logging at 23/11/2026 00:02:23

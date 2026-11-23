@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CICMMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpticalDisc>
+    <Image format="Aaru" offset="0">Asus_P4S533_Series.aaruf</Image>
+    <Size>227024662</Size>
+    <Sequence>
+      <MediaSequence>1</MediaSequence>
+      <TotalMedia>1</TotalMedia>
+    </Sequence>
+    <Checksums>
+      <Checksum type="adler32">e827c2af</Checksum>
+      <Checksum type="crc16">ac32</Checksum>
+      <Checksum type="crc32">2d723d0e</Checksum>
+      <Checksum type="crc64">40ed64a8880b96ba</Checksum>
+      <Checksum type="md5">3517daa91a2ab6925d339c60cba83542</Checksum>
+      <Checksum type="sha1">036299ff83062257340e85f1b57d9241771d85d4</Checksum>
+      <Checksum type="sha256">056b47de70f7063389ac7766c5cfcea02a28abe8101d51b43d1b44c672bc33be</Checksum>
+      <Checksum type="sha384">e5795e6f5fff69f15253f56fd69566adfc2185aae6ef71dc9874587b62e160db8df2456de56c6bd1419e83b7e3521b8b</Checksum>
+      <Checksum type="sha512">e5fd686ef5589ce1baef2c564ae82cedc969118d4cab46f1674363fb6378082e79e942a6f41bad45cb3a22d0c7aedc8dfb3e0c9c29dec2f168e03b1505f9a38e</Checksum>
+      <Checksum type="spamsum">6291456:SJpoDMErC7mn7d0lg8iMMUCAtt+AgCKrSndGJdQy/C62eJyQ:SnpMfZnHAtoAgdSnl562W</Checksum>
+      <Checksum type="fletcher16">4cfc</Checksum>
+      <Checksum type="fletcher32">d77428d4</Checksum>
+    </Checksums>
+    <DiscType>Compact Disc</DiscType>
+    <DiscSubType>CD-ROM XA</DiscSubType>
+    <Tracks>1</Tracks>
+    <Sessions>1</Sessions>
+    <Dimensions>
+      <Diameter>120</Diameter>
+      <Thickness>1.2</Thickness>
+    </Dimensions>
+    <TOC>
+      <Image>./Asus_P4S533_Series.aaruf</Image>
+      <Size>46</Size>
+      <Checksums>
+        <Checksum type="adler32">4b0f02b9</Checksum>
+        <Checksum type="crc16">eff4</Checksum>
+        <Checksum type="crc32">039c5090</Checksum>
+        <Checksum type="crc64">4628f5935d46ddec</Checksum>
+        <Checksum type="md5">1963d8d3a64fd6334cbee592075cf79a</Checksum>
+        <Checksum type="sha1">de04c1f17c0c050365b1f83b69724a18fc29d3d2</Checksum>
+        <Checksum type="sha256">38d2ab499c7bacfe89c490006bd815587e22fe46ee2491a078dc36499b7fc2f2</Checksum>
+        <Checksum type="sha384">c0fa9e3ef88fc6cad8d3ca57e0327c4830ab1dba710771def28feadbca62821228bf5c1ac2f3c65fa26a51edc7bfa56d</Checksum>
+        <Checksum type="sha512">802a9705e332f9ab7397793258f57f54b7ebeac1784e432f192a130d8f9cc34a574addccae0cfe49c93391caa6e985cc872cad0a07842b0e6bb0973ffff641e7</Checksum>
+        <Checksum type="spamsum">3:2VOkxell/sO606I//l:E6lEO66//l</Checksum>
+        <Checksum type="fletcher16">2cba</Checksum>
+        <Checksum type="fletcher32">4ae102b8</Checksum>
+      </Checksums>
+    </TOC>
+    <Track>
+      <Image format="BINARY">Asus_P4S533_Series.aaruf</Image>
+      <Size>478991856</Size>
+      <Sequence>
+        <TrackNumber>1</TrackNumber>
+        <Session>1</Session>
+      </Sequence>
+      <StartSector>0</StartSector>
+      <EndSector>203652</EndSector>
+      <Indexes>
+        <Index index="0">-150</Index>
+        <Index index="1">0</Index>
+      </Indexes>
+      <Flags>
+        <Quadraphonic>false</Quadraphonic>
+        <Data>true</Data>
+        <CopyPermitted>false</CopyPermitted>
+        <PreEmphasis>false</PreEmphasis>
+      </Flags>
+      <TrackType>m2f1</TrackType>
+      <BytesPerSector>2048</BytesPerSector>
+      <Checksums>
+        <Checksum type="adler32">0e93f19c</Checksum>
+        <Checksum type="crc16">f76a</Checksum>
+        <Checksum type="crc32">d2fe9643</Checksum>
+        <Checksum type="crc64">9b5bab7ebb4f587d</Checksum>
+        <Checksum type="md5">01305ba25a0d30e491e726a91c8349ba</Checksum>
+        <Checksum type="sha1">5e3d2c4ebb3a46458ad1d6d1a197b6c9f34035cc</Checksum>
+        <Checksum type="sha256">76ffff926ad015e433ad7a8d7728a81df42bf4c96f27a26302dc49b72ba2bd00</Checksum>
+        <Checksum type="sha384">11645720de24eb573d95a0218be40e2a16700235c0827bb47ee343cbf1b68b3c8fbe1a485a8eb60c8891bf0bf89c3e80</Checksum>
+        <Checksum type="sha512">fe9cd87116301263fe0348ace67c3a0b22e1d1b117f05f21cc4ee7a67973864f8f9b3c5b6ac297aa9f094f9d166aa51b81c74b9d43b2a07696756f8a1f701cf4</Checksum>
+        <Checksum type="spamsum">6291456:P3HTmeKPkKQ6RKjY4mwavh4Pmjm9AJT7n5g5Vo3oceZMe9M:PmPi6RKM4mr540Pbco3oceZMe9</Checksum>
+        <Checksum type="fletcher16">732e</Checksum>
+        <Checksum type="fletcher32">bcb60b23</Checksum>
+      </Checksums>
+      <FileSystemInformation>
+        <Partition>
+          <Sequence>0</Sequence>
+          <Name>Track 1</Name>
+          <Type>CdMode2Form1</Type>
+          <StartSector>0</StartSector>
+          <EndSector>203652</EndSector>
+          <FileSystems>
+            <FileSystem>
+              <Type>ISO9660</Type>
+              <CreationDate>2002-03-14T15:25:28Z</CreationDate>
+              <ModificationDate>2002-03-14T15:25:28Z</ModificationDate>
+              <ClusterSize>2048</ClusterSize>
+              <Clusters>203353</Clusters>
+              <Bootable>false</Bootable>
+              <VolumeName>P4S133_333_533</VolumeName>
+              <Dirty>false</Dirty>
+              <SystemIdentifier>CD-RTOS CD-BRIDGE</SystemIdentifier>
+              <VolumeSetIdentifier />
+              <PublisherIdentifier />
+              <DataPreparerIdentifier />
+              <ApplicationIdentifier />
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+      </FileSystemInformation>
+    </Track>
+    <DumpHardwareArray>
+      <DumpHardware>
+        <Manufacturer>HL-DT-ST</Manufacturer>
+        <Model>DVDRAM GU70N</Model>
+        <Firmware>LS20</Firmware>
+        <Serial>M2FDBDK5936</Serial>
+        <Extents>
+          <Extent>
+            <Start>0</Start>
+            <End>203652</End>
+          </Extent>
+        </Extents>
+        <Software>
+          <Name>Aaru</Name>
+          <Version>5.4.2.0</Version>
+          <OperatingSystem>Linux</OperatingSystem>
+        </Software>
+      </DumpHardware>
+    </DumpHardwareArray>
+  </OpticalDisc>
+</CICMMetadata>

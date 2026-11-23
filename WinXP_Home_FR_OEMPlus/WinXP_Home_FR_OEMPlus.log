@@ -1,0 +1,65 @@
+Start logging at 23/11/2026 12:45:38
+################# System information #################
+Linux 7.3.0.10 (64-bit)
+.NET 8.0.20
+
+################# Program information ################
+Aaru 5.4.2+7266fca8.7266fca89be6b5182e7bfcba7243f76809df2a93
+Running in 64-bit
+Running as superuser: No
+Command line: /home/raphael/Documents/MPF/MPF.Avalonia_net11.0_linux-x64_debug/Programs/Aaru/aaru media dump -p 0 --subchannel none --speed 24 /dev/sr0 ./WinXP_Home_FR_OEMPlus.aaruf
+
+################# Device information #################
+Manufacturer: HL-DT-ST
+Model: DVDRAM GU70N
+Firmware revision: LS20
+Serial number: M2FDBDK5936
+Removable device: True
+Device type: ATAPI
+CompactFlash device: False
+PCMCIA device: False
+USB device: False
+FireWire device: False
+######################################################
+
+################ Dumping progress log ################
+2026-11-23T12:45:38 Output image format: Aaru Format.
+2026-11-23T12:45:38 Device not in database, please create a device report and attach it to a Github issue.
+2026-11-23T12:45:38 Device reports current profile is 0x0008
+2026-11-23T12:45:38 Reading full TOC
+2026-11-23T12:45:38 Building track map...
+2026-11-23T12:45:38 Checking if drive supports PQ subchannel reading...
+2026-11-23T12:45:38 Checking if drive supports full raw subchannel reading...
+2026-11-23T12:45:38 Full raw subchannel reading supported...
+2026-11-23T12:45:38 Drive returns subchannel in BCD...
+2026-11-23T12:45:38 Calculating pregaps, can take some time...
+2026-11-23T12:45:38 Reading ATIP
+2026-11-23T12:45:38 Reading Disc Information
+2026-11-23T12:45:38 Reading PMA
+2026-11-23T12:45:38 Reading Session Information
+2026-11-23T12:45:38 Reading CD-Text from Lead-In
+2026-11-23T12:45:38 Detecting disc type...
+2026-11-23T12:45:39 Checking mode for track 1...
+2026-11-23T12:45:39 Track 1 is MODE1
+2026-11-23T12:45:39 Reading 32 sectors at a time.
+2026-11-23T12:45:39 Device reports 246374 blocks (603123552 bytes).
+2026-11-23T12:45:39 Device can read 32 blocks at a time.
+2026-11-23T12:45:39 Device reports 2448 bytes per logical block.
+2026-11-23T12:45:39 SCSI device type: MultiMediaDevice.
+2026-11-23T12:45:39 Media identified as CDROM.
+2026-11-23T12:45:39 Creating subchannel log in ./WinXP_Home_FR_OEMPlus.sub.log
+2026-11-23T12:45:39 Setting flags for track 1...
+2026-11-23T12:45:39 No audio tracks, disabling offset fix.
+2026-11-23T12:45:39 Drive reading offset is 192 bytes (48 samples).
+2026-11-23T12:45:39 Disc write offset is unknown, dump may not be correct.
+2026-11-23T12:45:39 Setting speed to 24x.
+2026-11-23T12:50:18 Dump finished in 279,4715395 seconds.
+2026-11-23T12:50:18 Average dump speed 15064,845 KiB/sec.
+2026-11-23T12:50:18 Average write speed 2467,414 KiB/sec.
+2026-11-23T12:50:18 Closing output file.
+2026-11-23T12:50:21 Creating sidecar.
+2026-11-23T12:52:20 Sidecar created in 117,817496 seconds.
+2026-11-23T12:52:20 Average checksum speed 4999,175 KiB/sec.
+2026-11-23T12:52:20 Found filesystem ISO9660 at sector 0
+######################################################
+End logging at 23/11/2026 12:52:20

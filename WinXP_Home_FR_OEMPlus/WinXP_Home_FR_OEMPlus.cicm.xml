@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CICMMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpticalDisc>
+    <Image format="Aaru" offset="0">WinXP_Home_FR_OEMPlus.aaruf</Image>
+    <Size>463585366</Size>
+    <Sequence>
+      <MediaSequence>1</MediaSequence>
+      <TotalMedia>1</TotalMedia>
+    </Sequence>
+    <Checksums>
+      <Checksum type="adler32">220221e6</Checksum>
+      <Checksum type="crc16">40f0</Checksum>
+      <Checksum type="crc32">93c9cacc</Checksum>
+      <Checksum type="crc64">1574d816990e3183</Checksum>
+      <Checksum type="md5">1b8db9bce8950b6377129eb7c5ef9e53</Checksum>
+      <Checksum type="sha1">858956ec62dade84707b6c2c84985fd8137a0c3d</Checksum>
+      <Checksum type="sha256">09d7ef97c757993567a6b47416ac9395e39c1028ea7636f65486b5c501a5646a</Checksum>
+      <Checksum type="sha384">56b8b2dbd9a21fd76b6575b68ce4c137eebf1ffd2b94063719b1f1cc0ba1ce0124a7c490404331c91c026181d25496e3</Checksum>
+      <Checksum type="sha512">15012dbec9b915cdb4315a604f6393c9d37c40010b959e66e1b60be2c40841669d715fe86816de632ade1f938d8030b65b24971b85e376b76a23ae5c94fc8cb5</Checksum>
+      <Checksum type="spamsum">12582912:8Um1C4+wqNcsJppOuMFeFIydtz2UZkCE4tnI7Vq/jYT85CQctLM3:9mIkqyo/MceYolJinIXg5yt43</Checksum>
+      <Checksum type="fletcher16">9719</Checksum>
+      <Checksum type="fletcher32">4b4c6eaa</Checksum>
+    </Checksums>
+    <DiscType>Compact Disc</DiscType>
+    <DiscSubType>CD-ROM</DiscSubType>
+    <Tracks>1</Tracks>
+    <Sessions>1</Sessions>
+    <Dimensions>
+      <Diameter>120</Diameter>
+      <Thickness>1.2</Thickness>
+    </Dimensions>
+    <TOC>
+      <Image>./WinXP_Home_FR_OEMPlus.aaruf</Image>
+      <Size>46</Size>
+      <Checksums>
+        <Checksum type="adler32">4ace02ed</Checksum>
+        <Checksum type="crc16">06d3</Checksum>
+        <Checksum type="crc32">46ad1871</Checksum>
+        <Checksum type="crc64">e814066c116f0f0e</Checksum>
+        <Checksum type="md5">6c13c0cfa11c604984bbcb281b9cf17a</Checksum>
+        <Checksum type="sha1">05bca0dd85d15fe0c0a148841a843a93580d2526</Checksum>
+        <Checksum type="sha256">ae83e3a633baf805a42a21e0ea03921d7801ee73f40290ba2d4cc4efae42d11c</Checksum>
+        <Checksum type="sha384">a2827cfea9fa7c9f315d4f9192e3747c8d59deb771f5bfe8dab02570845620557fe76ecf0f4b1b66e906432cf5df9206</Checksum>
+        <Checksum type="sha512">4c33a4a82e1da0ccb500fbfcb1b93f1f9d3b93f5691c59dcb57024233a80d61748e3394a4fcc452b163dd70f24c174503eaf83942416f0e5820c96f7286bab97</Checksum>
+        <Checksum type="spamsum">3:2VaOO/sOhLz//l:pOOEOl//l</Checksum>
+        <Checksum type="fletcher16">eaee</Checksum>
+        <Checksum type="fletcher32">4aa002ec</Checksum>
+      </Checksums>
+    </TOC>
+    <Track>
+      <Image format="BINARY">WinXP_Home_FR_OEMPlus.aaruf</Image>
+      <Size>579471648</Size>
+      <Sequence>
+        <TrackNumber>1</TrackNumber>
+        <Session>1</Session>
+      </Sequence>
+      <StartSector>0</StartSector>
+      <EndSector>246373</EndSector>
+      <Indexes>
+        <Index index="0">-150</Index>
+        <Index index="1">0</Index>
+      </Indexes>
+      <Flags>
+        <Quadraphonic>false</Quadraphonic>
+        <Data>true</Data>
+        <CopyPermitted>false</CopyPermitted>
+        <PreEmphasis>false</PreEmphasis>
+      </Flags>
+      <TrackType>mode1</TrackType>
+      <BytesPerSector>2048</BytesPerSector>
+      <Checksums>
+        <Checksum type="adler32">ada8b3a8</Checksum>
+        <Checksum type="crc16">a740</Checksum>
+        <Checksum type="crc32">f64180e9</Checksum>
+        <Checksum type="crc64">240634f28de1781b</Checksum>
+        <Checksum type="md5">9b1b339ff2b27e3f66ccb99057b994e9</Checksum>
+        <Checksum type="sha1">42f736deae64cfa2870dde050a61cb12369c174a</Checksum>
+        <Checksum type="sha256">167ad96cc0efddbed3796830f8fee0da49e549e3dd693621b2dcaae8ea84ec76</Checksum>
+        <Checksum type="sha384">e3c66ec61a96c787e663b5d51bf7871f0e0b9d5698457ad31476d460432349b0c99f84a927a36ef489cca4275d56fdab</Checksum>
+        <Checksum type="sha512">e239c19620cdb490e82426907fbb51abaa57d53cae16e8af1e5d99bf4bc80f32375a745feda06f15b911caa887c2a735a778b9960f666b2babaef16aa60a5a66</Checksum>
+        <Checksum type="spamsum">12582912:BKAPnKIPT9B6nq3cwtydF/AqP3K9yK6yYICi9D60mJBW1e1cQIwZI:QqKIn6nKIF4qPa/rCio01eiHwK</Checksum>
+        <Checksum type="fletcher16">3510</Checksum>
+        <Checksum type="fletcher32">69cb50bf</Checksum>
+      </Checksums>
+      <FileSystemInformation>
+        <Partition>
+          <Sequence>0</Sequence>
+          <Name>Track 1</Name>
+          <Type>CdMode1</Type>
+          <StartSector>0</StartSector>
+          <EndSector>246373</EndSector>
+          <FileSystems>
+            <FileSystem>
+              <Type>ISO9660</Type>
+              <CreationDate>2001-08-28T11:00:00Z</CreationDate>
+              <ClusterSize>2048</ClusterSize>
+              <Clusters>246228</Clusters>
+              <Bootable>true</Bootable>
+              <VolumeName>WXHOEM_FR</VolumeName>
+              <Dirty>false</Dirty>
+              <SystemIdentifier />
+              <VolumeSetIdentifier>WXHOEM_FR</VolumeSetIdentifier>
+              <PublisherIdentifier>MICROSOFT CORPORATION</PublisherIdentifier>
+              <DataPreparerIdentifier>MICROSOFT CORPORATION, ONE MICROSOFT WAY, REDMOND WA 98052, (425) 882-8080</DataPreparerIdentifier>
+              <ApplicationIdentifier>CDIMAGE 2.46 (10/12/2000 TM)</ApplicationIdentifier>
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+      </FileSystemInformation>
+    </Track>
+    <DumpHardwareArray>
+      <DumpHardware>
+        <Manufacturer>HL-DT-ST</Manufacturer>
+        <Model>DVDRAM GU70N</Model>
+        <Firmware>LS20</Firmware>
+        <Serial>M2FDBDK5936</Serial>
+        <Extents>
+          <Extent>
+            <Start>0</Start>
+            <End>246373</End>
+          </Extent>
+        </Extents>
+        <Software>
+          <Name>Aaru</Name>
+          <Version>5.4.2.0</Version>
+          <OperatingSystem>Linux</OperatingSystem>
+        </Software>
+      </DumpHardware>
+    </DumpHardwareArray>
+  </OpticalDisc>
+</CICMMetadata>

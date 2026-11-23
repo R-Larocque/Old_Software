@@ -1,0 +1,57 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Title: (REQUIRED)
+	Foreign Title: (OPTIONAL)
+	Disc Number: (OPTIONAL)
+	Disc Title: (OPTIONAL)
+
+Regions and Languages:
+	Regions: SPACE! (CHANGE THIS)
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: (REQUIRED, IF EXISTS)
+	Editions: (VERIFY THIS) Original
+	Barcodes: (OPTIONAL)
+	Version: (REQUIRED, IF EXISTS)
+	Error Count: Error retrieving error count
+
+Ring Codes:
+	Layer 0 Mastering Code: (REQUIRED, IF EXISTS)
+	Layer 0 Mastering SID: (REQUIRED, IF EXISTS)
+	Layer 0 Toolstamps: (REQUIRED, IF EXISTS)
+	Layer 0 Mould SIDs: (REQUIRED, IF EXISTS)
+	Layer 0 Additional Moulds: (REQUIRED, IF EXISTS)
+	Label Side Mastering Code: (REQUIRED, IF EXISTS)
+	Label Side Mastering SID: (REQUIRED, IF EXISTS)
+	Label Side Toolstamps: (REQUIRED, IF EXISTS)
+	Label Side Mould SIDs: (REQUIRED, IF EXISTS)
+	Label Side Additional Moulds: (REQUIRED, IF EXISTS)
+
+Dump Metadata:
+	Comments: (OPTIONAL)
+	Contents: (OPTIONAL)
+	Protection: [EXTERNAL SCAN NEEDED]
+	Cuesheet: 
+	Dat:
+
+<rom name="Palm_IIIxe_Handheld_3.bin" size="127965264" crc="53315742" md5="cf4737f656ee4ad176d6c129d63bc262" sha1="a0ddb7270c9e901dbb668d0c584f4ff3de609140" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.11.1-bc713544e4b5261fc8753c7de64a23bcb9ff6673
+	Dumping Program: Aaru
+	Date: 2026-11-23 05:02:23
+	Manufacturer: HL-DT-ST
+	Model: DVDRAM GU70N
+	Firmware: LS20
+	Reported Disc Type: Compact Disc (CD-ROM)

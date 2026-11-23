@@ -1,0 +1,152 @@
+Start logging at 23/11/2026 01:28:27
+################# System information #################
+Linux 7.3.0.10 (64-bit)
+.NET 8.0.20
+
+################# Program information ################
+Aaru 5.4.2+7266fca8.7266fca89be6b5182e7bfcba7243f76809df2a93
+Running in 64-bit
+Running as superuser: No
+Command line: /home/raphael/Documents/MPF/MPF.Avalonia_net11.0_linux-x64_debug/Programs/Aaru/aaru media dump -p 0 --subchannel none --speed 24 /dev/sr0 ./Asus_P4S533_Series.aaruf
+
+################# Device information #################
+Manufacturer: HL-DT-ST
+Model: DVDRAM GU70N
+Firmware revision: LS20
+Serial number: M2FDBDK5936
+Removable device: True
+Device type: ATAPI
+CompactFlash device: False
+PCMCIA device: False
+USB device: False
+FireWire device: False
+######################################################
+
+################ Dumping progress log ################
+2026-11-23T01:28:27 Output image format: Aaru Format.
+2026-11-23T01:28:27 Device not in database, please create a device report and attach it to a Github issue.
+2026-11-23T01:28:27 Device reports current profile is 0x0008
+2026-11-23T01:28:27 Reading full TOC
+2026-11-23T01:28:27 Building track map...
+2026-11-23T01:28:27 Checking if drive supports PQ subchannel reading...
+2026-11-23T01:28:27 Checking if drive supports full raw subchannel reading...
+2026-11-23T01:28:27 Full raw subchannel reading supported...
+2026-11-23T01:28:27 Drive returns subchannel in BCD...
+2026-11-23T01:28:27 Calculating pregaps, can take some time...
+2026-11-23T01:28:27 Reading ATIP
+2026-11-23T01:28:27 Reading Disc Information
+2026-11-23T01:28:27 Reading PMA
+2026-11-23T01:28:27 Reading Session Information
+2026-11-23T01:28:27 Reading CD-Text from Lead-In
+2026-11-23T01:28:27 Detecting disc type...
+2026-11-23T01:28:28 Checking mode for track 1...
+2026-11-23T01:28:28 Track 1 is MODE2 FORM 1
+2026-11-23T01:28:28 Reading 32 sectors at a time.
+2026-11-23T01:28:28 Device reports 203653 blocks (498542544 bytes).
+2026-11-23T01:28:28 Device can read 32 blocks at a time.
+2026-11-23T01:28:28 Device reports 2448 bytes per logical block.
+2026-11-23T01:28:28 SCSI device type: MultiMediaDevice.
+2026-11-23T01:28:28 Media identified as CDROMXA.
+2026-11-23T01:28:28 Creating subchannel log in ./Asus_P4S533_Series.sub.log
+2026-11-23T01:28:28 Setting flags for track 1...
+2026-11-23T01:28:28 No audio tracks, disabling offset fix.
+2026-11-23T01:28:28 Drive reading offset is 192 bytes (48 samples).
+2026-11-23T01:28:28 Disc write offset is unknown, dump may not be correct.
+2026-11-23T01:28:28 Setting speed to 24x.
+2026-11-23T01:38:37 Skipping 512 blocks from errored block 1696.
+2026-11-23T01:38:37 Skipping 512 blocks from errored block 2208.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 2720.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 3232.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 3744.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 4256.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 4768.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 5280.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 5792.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 6304.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 6816.
+2026-11-23T01:38:38 Skipping 512 blocks from errored block 7328.
+2026-11-23T01:38:39 Skipping 512 blocks from errored block 7840.
+2026-11-23T01:38:39 Skipping 512 blocks from errored block 8352.
+2026-11-23T01:38:39 Skipping 512 blocks from errored block 8864.
+2026-11-23T01:38:39 Skipping 512 blocks from errored block 9376.
+2026-11-23T01:38:39 Skipping 512 blocks from errored block 9888.
+2026-11-23T01:38:39 Skipping 512 blocks from errored block 10400.
+2026-11-23T01:38:40 Skipping 512 blocks from errored block 10912.
+2026-11-23T01:38:40 Skipping 512 blocks from errored block 11424.
+2026-11-23T01:38:40 Skipping 512 blocks from errored block 11936.
+2026-11-23T01:38:40 Skipping 512 blocks from errored block 12448.
+2026-11-23T01:38:40 Skipping 512 blocks from errored block 12960.
+2026-11-23T01:38:40 Skipping 512 blocks from errored block 13472.
+2026-11-23T01:38:41 Skipping 512 blocks from errored block 13984.
+2026-11-23T01:38:41 Skipping 512 blocks from errored block 14496.
+2026-11-23T01:38:41 Skipping 512 blocks from errored block 15008.
+2026-11-23T01:38:41 Skipping 512 blocks from errored block 15520.
+2026-11-23T01:38:41 Skipping 512 blocks from errored block 16032.
+2026-11-23T01:38:41 Skipping 512 blocks from errored block 16544.
+2026-11-23T01:38:41 Skipping 512 blocks from errored block 17056.
+2026-11-23T01:38:41 Skipping 512 blocks from errored block 17568.
+2026-11-23T01:38:42 Skipping 512 blocks from errored block 18080.
+2026-11-23T01:38:42 Skipping 512 blocks from errored block 18592.
+2026-11-23T01:38:42 Skipping 512 blocks from errored block 19104.
+2026-11-23T01:38:42 Skipping 512 blocks from errored block 19616.
+2026-11-23T01:38:42 Skipping 512 blocks from errored block 20128.
+2026-11-23T01:38:42 Skipping 512 blocks from errored block 20640.
+2026-11-23T01:38:42 Skipping 512 blocks from errored block 21152.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 21664.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 22176.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 22688.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 23200.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 23712.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 24224.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 24736.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 25248.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 25760.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 26272.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 26784.
+2026-11-23T01:38:43 Skipping 512 blocks from errored block 27296.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 27808.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 28320.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 28832.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 29344.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 29856.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 30368.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 30880.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 31392.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 31904.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 32416.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 32928.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 33440.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 33952.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 34464.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 34976.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 35488.
+2026-11-23T01:38:44 Skipping 512 blocks from errored block 36000.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 36512.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 37024.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 37536.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 38048.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 38560.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 39072.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 39584.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 40096.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 40608.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 41120.
+2026-11-23T01:38:45 Skipping 512 blocks from errored block 41632.
+2026-11-23T01:38:46 Skipping 512 blocks from errored block 42144.
+2026-11-23T01:38:46 Skipping 512 blocks from errored block 42656.
+2026-11-23T01:38:46 Skipping 512 blocks from errored block 43168.
+2026-11-23T01:38:46 Skipping 512 blocks from errored block 43680.
+2026-11-23T01:38:46 Skipping 512 blocks from errored block 44192.
+2026-11-23T01:38:46 Skipping 512 blocks from errored block 44704.
+2026-11-23T01:44:14 Dump finished in 945,6111671 seconds.
+2026-11-23T01:44:14 Average dump speed 2637,151 KiB/sec.
+2026-11-23T01:44:14 Average write speed 640,752 KiB/sec.
+2026-11-23T01:44:14 Trimming skipped sectors
+2026-11-23T01:46:28 Trimming finished in 134,1980087 seconds.
+2026-11-23T01:46:28 Closing output file.
+2026-11-23T01:46:31 Creating sidecar.
+2026-11-23T01:47:40 Sidecar created in 68,51728 seconds.
+2026-11-23T01:47:40 Average checksum speed 7105,658 KiB/sec.
+2026-11-23T01:47:40 Found filesystem ISO9660 at sector 0
+######################################################
+End logging at 23/11/2026 01:47:40

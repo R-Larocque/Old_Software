@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CICMMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpticalDisc>
+    <Image format="Aaru" offset="0">CA_BitWare.aaruf</Image>
+    <Size>353524626</Size>
+    <Sequence>
+      <MediaSequence>1</MediaSequence>
+      <TotalMedia>1</TotalMedia>
+    </Sequence>
+    <Checksums>
+      <Checksum type="adler32">a91806f1</Checksum>
+      <Checksum type="crc16">cd56</Checksum>
+      <Checksum type="crc32">cbe4e9aa</Checksum>
+      <Checksum type="crc64">0bc898b597298fe2</Checksum>
+      <Checksum type="md5">f7a9238bb234558237f435d15450c5bf</Checksum>
+      <Checksum type="sha1">d3ec73ce8552b718743d350127ba1d3b73702af4</Checksum>
+      <Checksum type="sha256">349012b3292b1c998ef46ccf2486c55a9f70ea1e9728e9432fe4b98c4371ed20</Checksum>
+      <Checksum type="sha384">86d78bcb5ec7ac4bce6ca4f41371c15c659784d1ba32ab461968dbbcc66d84702bdb30c3aa4da7637541d15e775c8e1f</Checksum>
+      <Checksum type="sha512">8d87028a18b349658bb65122b3c0b593165bdcaaa9cebeda515c43e3d109850e254e6bff4cab855872549359c25e6b2e7627e99dcaae8197a6924046191ecf20</Checksum>
+      <Checksum type="spamsum">6291456:DjGAEF+srocBgNNQssYBzbnc8RR6gNgM+Dj5bzQgo2hf014efrr3aCPdNeF3Gzt:DRWNVKswcUR6ggn9j02Wr5PdNk0</Checksum>
+      <Checksum type="fletcher16">b00c</Checksum>
+      <Checksum type="fletcher32">9c14eb20</Checksum>
+    </Checksums>
+    <DiscType>Compact Disc</DiscType>
+    <DiscSubType>CD-ROM</DiscSubType>
+    <Tracks>1</Tracks>
+    <Sessions>1</Sessions>
+    <Dimensions>
+      <Diameter>120</Diameter>
+      <Thickness>1.2</Thickness>
+    </Dimensions>
+    <TOC>
+      <Image>./CA_BitWare.aaruf</Image>
+      <Size>46</Size>
+      <Checksums>
+        <Checksum type="adler32">44e80274</Checksum>
+        <Checksum type="crc16">9b4d</Checksum>
+        <Checksum type="crc32">7edf4dbd</Checksum>
+        <Checksum type="crc64">442618e41828125c</Checksum>
+        <Checksum type="md5">93ff7d76e4394ba93f151f88aada2587</Checksum>
+        <Checksum type="sha1">4536ef3f0d0bde5bd80781576c4741b7194639c6</Checksum>
+        <Checksum type="sha256">978fa1fbe8ce6093d586a2a01b64c0f05c8d30d98fc324cf7d7793ea2f696bcf</Checksum>
+        <Checksum type="sha384">9e7a81f86dfe776f4fae1405c0bb77d3b69e200a9890665b9baed9d22437223624b56bdd2a47242a8e03073ce5cebb67</Checksum>
+        <Checksum type="sha512">c6af027fc9c9e4a9b4019779fb523fac858113f676b6568963072919db30b8b04998f023e0944917ff49f4b489e9a606cd9af86b2564efc91e42f73437032be7</Checksum>
+        <Checksum type="spamsum">3:2VaOO/sO4nhz/l:pOOEO4nx/l</Checksum>
+        <Checksum type="fletcher16">fe75</Checksum>
+        <Checksum type="fletcher32">44ba0273</Checksum>
+      </Checksums>
+    </TOC>
+    <Track>
+      <Image format="BINARY">CA_BitWare.aaruf</Image>
+      <Size>497457408</Size>
+      <Sequence>
+        <TrackNumber>1</TrackNumber>
+        <Session>1</Session>
+      </Sequence>
+      <StartSector>0</StartSector>
+      <EndSector>211503</EndSector>
+      <Indexes>
+        <Index index="0">-150</Index>
+        <Index index="1">0</Index>
+      </Indexes>
+      <Flags>
+        <Quadraphonic>false</Quadraphonic>
+        <Data>true</Data>
+        <CopyPermitted>false</CopyPermitted>
+        <PreEmphasis>false</PreEmphasis>
+      </Flags>
+      <TrackType>mode1</TrackType>
+      <BytesPerSector>2048</BytesPerSector>
+      <Checksums>
+        <Checksum type="adler32">b6b569f4</Checksum>
+        <Checksum type="crc16">d50d</Checksum>
+        <Checksum type="crc32">4ea7bb1d</Checksum>
+        <Checksum type="crc64">4aade2da0f11ac79</Checksum>
+        <Checksum type="md5">92eacf2b19b224068720ba82c3584fa0</Checksum>
+        <Checksum type="sha1">4eb7aafdf7a7ef001e751c66c2af6aae242c9317</Checksum>
+        <Checksum type="sha256">2f84bd36e778f822fbf81aa6164e3ed809a95e194d6df6c33f853ff182e64e12</Checksum>
+        <Checksum type="sha384">98ae8626a05b972239728c9706f5fe3dd1e8664554028f87c5c0b6584bffb8eb612e99697172d647e2c9cfab064dc1df</Checksum>
+        <Checksum type="sha512">73ddb1e80f346c3ba383984996ee4192647d0f1e280bcd0e15f38e3c0da114c6f6d0441bb6d18be998cf383548d577ae5c9073e9c0372ff88f9c3a93527c39ea</Checksum>
+        <Checksum type="spamsum">6291456:DW+WXqqv+SIQnbf50lqsNujTZ4v0lAUnOBHvlt/bK2ZIpffTVTeuz3nPj0G1hyjF:rNSXnSqsVvhBjbPyJewfj0GijrcGbIu</Checksum>
+        <Checksum type="fletcher16">dbc0</Checksum>
+        <Checksum type="fletcher32">a7346957</Checksum>
+      </Checksums>
+      <FileSystemInformation>
+        <Partition>
+          <Sequence>0</Sequence>
+          <Name>Track 1</Name>
+          <Type>CdMode1</Type>
+          <StartSector>0</StartSector>
+          <EndSector>211503</EndSector>
+          <FileSystems>
+            <FileSystem>
+              <Type>ISO9660</Type>
+              <CreationDate>2002-04-30T03:57:00Z</CreationDate>
+              <ModificationDate>2002-04-30T03:57:00Z</ModificationDate>
+              <ClusterSize>2048</ClusterSize>
+              <Clusters>211504</Clusters>
+              <Bootable>false</Bootable>
+              <VolumeName>PTIIA56001-51</VolumeName>
+              <Dirty>false</Dirty>
+              <SystemIdentifier />
+              <VolumeSetIdentifier />
+              <PublisherIdentifier />
+              <DataPreparerIdentifier />
+              <ApplicationIdentifier />
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+      </FileSystemInformation>
+    </Track>
+    <DumpHardwareArray>
+      <DumpHardware>
+        <Manufacturer>HL-DT-ST</Manufacturer>
+        <Model>DVDRAM GU70N</Model>
+        <Firmware>LS20</Firmware>
+        <Serial>M2FDBDK5936</Serial>
+        <Extents>
+          <Extent>
+            <Start>0</Start>
+            <End>211503</End>
+          </Extent>
+        </Extents>
+        <Software>
+          <Name>Aaru</Name>
+          <Version>5.4.2.0</Version>
+          <OperatingSystem>Linux</OperatingSystem>
+        </Software>
+      </DumpHardware>
+    </DumpHardwareArray>
+  </OpticalDisc>
+</CICMMetadata>

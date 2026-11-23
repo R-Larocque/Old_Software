@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CICMMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpticalDisc>
+    <Image format="Aaru" offset="0">Palm_IIIxe_Handheld_3.1.aaruf</Image>
+    <Size>89458722</Size>
+    <Sequence>
+      <MediaSequence>1</MediaSequence>
+      <TotalMedia>1</TotalMedia>
+    </Sequence>
+    <Checksums>
+      <Checksum type="adler32">e8906458</Checksum>
+      <Checksum type="crc16">a743</Checksum>
+      <Checksum type="crc32">29a2dfa1</Checksum>
+      <Checksum type="crc64">526f3131d850372e</Checksum>
+      <Checksum type="md5">42f6bc01a0139b769c3faffd4eb8a4f7</Checksum>
+      <Checksum type="sha1">5ab104068efb6ec06f5249c40e274e9460e97950</Checksum>
+      <Checksum type="sha256">d4d95264e3b1a0f4093a7d895c94e87feaa6ff8fd20808138cfd016d0991fe1d</Checksum>
+      <Checksum type="sha384">fbca84ada41fdf8c918ff4e4a8cace63d789ad038578fc07ffb5641b37d6609d4466996b9537884884c2388861cb090b</Checksum>
+      <Checksum type="sha512">df11aa56836fa402579492deaf4b01e66a52c833676ce3ca6f86702149d190bfd96a32595adda31f9fb96ce2722b04ee56349f818cfbefae5db72ea38e2e3449</Checksum>
+      <Checksum type="spamsum">1572864:6gb1ZjcCoLwtOhq2rVhZMwaexUlEcy+LtgM8bLY9wvlb2kmzzZ7CzpSdVXTj:6y1mCTtOA2rzZfTk+9Xmwvl5ydedSdVXf</Checksum>
+      <Checksum type="fletcher16">2bf9</Checksum>
+      <Checksum type="fletcher32">c9612dcc</Checksum>
+    </Checksums>
+    <DiscType>Compact Disc</DiscType>
+    <DiscSubType>CD-ROM</DiscSubType>
+    <Tracks>1</Tracks>
+    <Sessions>1</Sessions>
+    <Dimensions>
+      <Diameter>120</Diameter>
+      <Thickness>1.2</Thickness>
+    </Dimensions>
+    <TOC>
+      <Image>./Palm_IIIxe_Handheld_3.1.aaruf</Image>
+      <Size>46</Size>
+      <Checksums>
+        <Checksum type="adler32">448f0272</Checksum>
+        <Checksum type="crc16">0d13</Checksum>
+        <Checksum type="crc32">c9c2432a</Checksum>
+        <Checksum type="crc64">37bfab478536afd4</Checksum>
+        <Checksum type="md5">2c04809a8cc23ea02e1d61f24ab60c1d</Checksum>
+        <Checksum type="sha1">a9fb5d29bea5891d8b0b2f18187cc0d45058f1d7</Checksum>
+        <Checksum type="sha256">a06c58f4a115d8083bc5fd2c3229492dcd3d793bc43b1cf6baaca7ef3ea5bb47</Checksum>
+        <Checksum type="sha384">f0888df3fdf2cbfdebe8d728b5f58ecd7885d64f1a6f81db750dd5aa12567cf13754259e00e7fbcc6d9563f45118ab29</Checksum>
+        <Checksum type="sha512">a526713b838ec75dca131b9d6f290bccb738ff69f0187fa8483aaf3ec81f082e8a28e12d37a6fada0ca11c8ae2723bdcb26617070b1c5564356e119ad483e78a</Checksum>
+        <Checksum type="spamsum">3:2VaOO/sObiFkx+lll/l:pOOEOGFkYlll/l</Checksum>
+        <Checksum type="fletcher16">a573</Checksum>
+        <Checksum type="fletcher32">44610271</Checksum>
+      </Checksums>
+    </TOC>
+    <Track>
+      <Image format="BINARY">Palm_IIIxe_Handheld_3.1.aaruf</Image>
+      <Size>127965264</Size>
+      <Sequence>
+        <TrackNumber>1</TrackNumber>
+        <Session>1</Session>
+      </Sequence>
+      <StartSector>0</StartSector>
+      <EndSector>54406</EndSector>
+      <Indexes>
+        <Index index="0">-150</Index>
+        <Index index="1">0</Index>
+      </Indexes>
+      <Flags>
+        <Quadraphonic>false</Quadraphonic>
+        <Data>true</Data>
+        <CopyPermitted>false</CopyPermitted>
+        <PreEmphasis>false</PreEmphasis>
+      </Flags>
+      <TrackType>mode1</TrackType>
+      <BytesPerSector>2048</BytesPerSector>
+      <Checksums>
+        <Checksum type="adler32">f5f8edbb</Checksum>
+        <Checksum type="crc16">b141</Checksum>
+        <Checksum type="crc32">53315742</Checksum>
+        <Checksum type="crc64">d784e70c6677e1b2</Checksum>
+        <Checksum type="md5">cf4737f656ee4ad176d6c129d63bc262</Checksum>
+        <Checksum type="sha1">a0ddb7270c9e901dbb668d0c584f4ff3de609140</Checksum>
+        <Checksum type="sha256">b7144a17c1ca55da2e3386a0d2700d20950cc6cd242480bbbb2a97711d4f07c8</Checksum>
+        <Checksum type="sha384">805297a0371435bfdb436fce708e99f22490a2a74b276bbd238b0711e65d9b4b84ef45ed31818d891bebec1d0316e2cf</Checksum>
+        <Checksum type="sha512">edd828c94d846035b7395749a3c1975613a93d14cc128ec2524ae9178e69ed7f8b468469ac7f4c57a29d0940758f8c4a4686a0d3be34cc003dd68152eb8009a9</Checksum>
+        <Checksum type="spamsum">3145728:oR3XpMvMNYgMCbyHLChQNQhJGuJNEfba04Cv:oRHpMvMibGl1Efbamv</Checksum>
+        <Checksum type="fletcher16">2963</Checksum>
+        <Checksum type="fletcher32">a385d48e</Checksum>
+      </Checksums>
+      <FileSystemInformation>
+        <Partition>
+          <Sequence>0</Sequence>
+          <Name>Track 1</Name>
+          <Type>CdMode1</Type>
+          <StartSector>0</StartSector>
+          <EndSector>54406</EndSector>
+          <FileSystems>
+            <FileSystem>
+              <Type>ISO9660</Type>
+              <CreationDate>2000-04-25T12:34:00Z</CreationDate>
+              <ModificationDate>2000-04-25T12:34:09Z</ModificationDate>
+              <ClusterSize>2048</ClusterSize>
+              <Clusters>54255</Clusters>
+              <Bootable>false</Bootable>
+              <VolumeName>PalmDesktop</VolumeName>
+              <Dirty>false</Dirty>
+              <SystemIdentifier>APPLE COMPUTER, INC., TYPE: 0002</SystemIdentifier>
+              <VolumeSetIdentifier>NOT_SET</VolumeSetIdentifier>
+              <PublisherIdentifier />
+              <DataPreparerIdentifier />
+              <ApplicationIdentifier>TOAST ISO 9660 BUILDER COPYRIGHT (C) 1997 ADAPTEC, INC. - HAVE A NICE DAY</ApplicationIdentifier>
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+      </FileSystemInformation>
+    </Track>
+    <DumpHardwareArray>
+      <DumpHardware>
+        <Manufacturer>HL-DT-ST</Manufacturer>
+        <Model>DVDRAM GU70N</Model>
+        <Firmware>LS20</Firmware>
+        <Serial>M2FDBDK5936</Serial>
+        <Extents>
+          <Extent>
+            <Start>0</Start>
+            <End>54406</End>
+          </Extent>
+        </Extents>
+        <Software>
+          <Name>Aaru</Name>
+          <Version>5.4.2.0</Version>
+          <OperatingSystem>Linux</OperatingSystem>
+        </Software>
+      </DumpHardware>
+    </DumpHardwareArray>
+  </OpticalDisc>
+</CICMMetadata>

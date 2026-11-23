@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CICMMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpticalDisc>
+    <Image format="Aaru" offset="0">LG_CD_Software_Roxio.aaruf</Image>
+    <Size>89405344</Size>
+    <Sequence>
+      <MediaSequence>1</MediaSequence>
+      <TotalMedia>1</TotalMedia>
+    </Sequence>
+    <Checksums>
+      <Checksum type="adler32">05e56925</Checksum>
+      <Checksum type="crc16">6c6f</Checksum>
+      <Checksum type="crc32">22b6e76b</Checksum>
+      <Checksum type="crc64">2a669edc0a0f647d</Checksum>
+      <Checksum type="md5">bea7ff607c166ae54eafd155f2bb078a</Checksum>
+      <Checksum type="sha1">96b9170983daf5100bd14bebec598243305a3c77</Checksum>
+      <Checksum type="sha256">9dc59ec0544152e003238b6a843a3b956debfb3e774172f02a2ea9d3b47c8ab3</Checksum>
+      <Checksum type="sha384">a0ff104e9c0bf097fafa874786bb5d286084b324a5f29deed7b691d79ec07165c6114cf99606f489eb6ae9a73a774302</Checksum>
+      <Checksum type="sha512">eccd627e41ada9a9092ea49889806ea48014aee0c99b840b60b74614b184457515c1adff1b6aca51fd5aa25ff7886dc56ffbb43f0b9b806cd859a93c62ae1b73</Checksum>
+      <Checksum type="spamsum">1572864:0oe+as6tYwSHGyx3qEOMZI1QdbAKTxHtyYJuGca7cayD6H15vT7+Csi1:heGG+O6db/xHtIuyDq15vXF</Checksum>
+      <Checksum type="fletcher16">4529</Checksum>
+      <Checksum type="fletcher32">30153deb</Checksum>
+    </Checksums>
+    <DiscType>Compact Disc</DiscType>
+    <DiscSubType>CD-ROM XA</DiscSubType>
+    <Tracks>1</Tracks>
+    <Sessions>1</Sessions>
+    <Dimensions>
+      <Diameter>120</Diameter>
+      <Thickness>1.2</Thickness>
+    </Dimensions>
+    <TOC>
+      <Image>./LG_CD_Software_Roxio.aaruf</Image>
+      <Size>46</Size>
+      <Checksums>
+        <Checksum type="adler32">49d102a3</Checksum>
+        <Checksum type="crc16">c931</Checksum>
+        <Checksum type="crc32">bdd5994a</Checksum>
+        <Checksum type="crc64">a4d14c75820b38ee</Checksum>
+        <Checksum type="md5">9ab4e1e046ddbb6651a62d91aaf9221f</Checksum>
+        <Checksum type="sha1">5e64d3fc88afb1edcbd1ac6ceb6c1eff5d2a3e1b</Checksum>
+        <Checksum type="sha256">a2a4ca3453c0dc7db2f427bbfb5709355fa8fe0444d42324f68e72f1f4789025</Checksum>
+        <Checksum type="sha384">c7c55b25029dd70ebe19205f9817cb95a5d142c3b60dd615ed92422215146a565240b2c58b60f555b09e009e9d53cd29</Checksum>
+        <Checksum type="sha512">b86e84dbc93ff0e0f277eeaa38c2e331a3d713fa112831e4700f12fa32f0bd23c747b5c3273a7ad1c019fc4b4fae4593e66d031ed362c334fedf522bd26813ea</Checksum>
+        <Checksum type="spamsum">3:2VOkxell/sOb4bxlM/l:E6lEOcPM/l</Checksum>
+        <Checksum type="fletcher16">eca4</Checksum>
+        <Checksum type="fletcher32">49a302a2</Checksum>
+      </Checksums>
+    </TOC>
+    <Track>
+      <Image format="BINARY">LG_CD_Software_Roxio.aaruf</Image>
+      <Size>131834304</Size>
+      <Sequence>
+        <TrackNumber>1</TrackNumber>
+        <Session>1</Session>
+      </Sequence>
+      <StartSector>0</StartSector>
+      <EndSector>56051</EndSector>
+      <Indexes>
+        <Index index="0">-150</Index>
+        <Index index="1">0</Index>
+      </Indexes>
+      <Flags>
+        <Quadraphonic>false</Quadraphonic>
+        <Data>true</Data>
+        <CopyPermitted>false</CopyPermitted>
+        <PreEmphasis>false</PreEmphasis>
+      </Flags>
+      <TrackType>m2f1</TrackType>
+      <BytesPerSector>2048</BytesPerSector>
+      <Checksums>
+        <Checksum type="adler32">7c5bc0c0</Checksum>
+        <Checksum type="crc16">faef</Checksum>
+        <Checksum type="crc32">a59c7bb3</Checksum>
+        <Checksum type="crc64">598ee6c1b6050e62</Checksum>
+        <Checksum type="md5">695e00a9835a728e07589df2f8505814</Checksum>
+        <Checksum type="sha1">e979b9c101409837f60c24910e5c2ab9f8eae529</Checksum>
+        <Checksum type="sha256">910a9d065f37dfa1875241a4b33ac4a710a458f28a4ac7836efa87b537be555a</Checksum>
+        <Checksum type="sha384">5d9531377729da7ae91082824de5dcd67cd5618dadcc3a117e5ee8e547aeb3fbf25bbfe47c6e2de8d2dbfad9be96e4f8</Checksum>
+        <Checksum type="sha512">0cd1287222bfafeac75d3686c1da7d73f169f4db1ec00995f15850b65f9975b358e9accc873cb2c384462671f0d96ac27efdc0782a5d8cfa9c035c545f45cff6</Checksum>
+        <Checksum type="spamsum">3145728:CFIm5moTQXK882dE7nO5I8C1pSQhqhEamoTUsWeewz4qLQluaw:qIm3QXhlWbO5IZr65nJWeewz4qLQlo</Checksum>
+        <Checksum type="fletcher16">30d4</Checksum>
+        <Checksum type="fletcher32">c96625af</Checksum>
+      </Checksums>
+      <FileSystemInformation>
+        <Partition>
+          <Sequence>0</Sequence>
+          <Name>Track 1</Name>
+          <Type>CdMode2Form1</Type>
+          <StartSector>0</StartSector>
+          <EndSector>56051</EndSector>
+          <FileSystems>
+            <FileSystem>
+              <Type>ISO9660</Type>
+              <CreationDate>2001-09-27T08:05:54Z</CreationDate>
+              <ModificationDate>2001-09-27T08:05:54Z</ModificationDate>
+              <ClusterSize>2048</ClusterSize>
+              <Clusters>55783</Clusters>
+              <Bootable>false</Bootable>
+              <VolumeName>ECDCv5 1(60)</VolumeName>
+              <Dirty>false</Dirty>
+              <ExpirationDate>1600-12-31T20:15:00Z</ExpirationDate>
+              <EffectiveDate>1600-12-31T20:15:00Z</EffectiveDate>
+              <SystemIdentifier>CD-RTOS CD-BRIDGE</SystemIdentifier>
+              <VolumeSetIdentifier />
+              <PublisherIdentifier />
+              <DataPreparerIdentifier />
+              <ApplicationIdentifier>EASY CD CREATOR 5.1 (060) COPYRIGHT (C) 1999-2001 ROXIO, INC.</ApplicationIdentifier>
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+      </FileSystemInformation>
+    </Track>
+    <DumpHardwareArray>
+      <DumpHardware>
+        <Manufacturer>HL-DT-ST</Manufacturer>
+        <Model>DVDRAM GU70N</Model>
+        <Firmware>LS20</Firmware>
+        <Serial>M2FDBDK5936</Serial>
+        <Extents>
+          <Extent>
+            <Start>0</Start>
+            <End>56051</End>
+          </Extent>
+        </Extents>
+        <Software>
+          <Name>Aaru</Name>
+          <Version>5.4.2.0</Version>
+          <OperatingSystem>Linux</OperatingSystem>
+        </Software>
+      </DumpHardware>
+    </DumpHardwareArray>
+  </OpticalDisc>
+</CICMMetadata>

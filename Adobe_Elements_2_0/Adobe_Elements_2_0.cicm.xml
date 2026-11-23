@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CICMMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpticalDisc>
+    <Image format="Aaru" offset="0">Adobe_Elements_2_0.aaruf</Image>
+    <Size>631907072</Size>
+    <Sequence>
+      <MediaSequence>1</MediaSequence>
+      <TotalMedia>1</TotalMedia>
+    </Sequence>
+    <Checksums>
+      <Checksum type="adler32">58e92a2f</Checksum>
+      <Checksum type="crc16">53a1</Checksum>
+      <Checksum type="crc32">5e6fa788</Checksum>
+      <Checksum type="crc64">8a73de3366f2370b</Checksum>
+      <Checksum type="md5">6a8c78f39707275cfe913c1bfb4fbbcd</Checksum>
+      <Checksum type="sha1">9b39a21dc2966d1d6759a377ef3b19aa6d2a8f17</Checksum>
+      <Checksum type="sha256">831334b5ef43cf2ece54031abed592c68d23c9dc6c88cf84789dca36c3427cb2</Checksum>
+      <Checksum type="sha384">223cd6d315c945f35e876e90b1cd632a33832dde065f413de9e2f14577a16238a00060a9fa68211fe5fdcd604ac561a6</Checksum>
+      <Checksum type="sha512">f0d2e8b825c2a4fd7a1ee3fa849749ef896d9bb129eb12e44d74b1de15d3b04743eef30f634c6722f7d170379f583d391cbcca31157bbe75c37201ec816d5f00</Checksum>
+      <Checksum type="spamsum">12582912:xYbDF1GBd5Z7rGeWwxiLk91Ditoz5XOgmCpgWcK0ZyY4jU6M61+tDTSh/:qbh18r1rGeWwxiLkL5wujZV1H</Checksum>
+      <Checksum type="fletcher16">1ecf</Checksum>
+      <Checksum type="fletcher32">aa73309f</Checksum>
+    </Checksums>
+    <DiscType>Compact Disc</DiscType>
+    <DiscSubType>CD-ROM</DiscSubType>
+    <Tracks>1</Tracks>
+    <Sessions>1</Sessions>
+    <Dimensions>
+      <Diameter>120</Diameter>
+      <Thickness>1.2</Thickness>
+    </Dimensions>
+    <TOC>
+      <Image>./Adobe_Elements_2_0.aaruf</Image>
+      <Size>46</Size>
+      <Checksums>
+        <Checksum type="adler32">4aa802e8</Checksum>
+        <Checksum type="crc16">960d</Checksum>
+        <Checksum type="crc32">fb238413</Checksum>
+        <Checksum type="crc64">490f44d1d3c75d0d</Checksum>
+        <Checksum type="md5">7fbd2c5820db090347a690736629a891</Checksum>
+        <Checksum type="sha1">e9f29016067b658b2afbe80bebf75812f83895ca</Checksum>
+        <Checksum type="sha256">78d4111d068c973f6f929411524919941f29ef15c1ec1ac03dfc94ce0af27119</Checksum>
+        <Checksum type="sha384">6a9a83604b7562c9a6431b8e8b674a3efdaf81e1e56da2a06e8e7b47f27c691c92d4eab2e1e6b94c801a95776b4895ae</Checksum>
+        <Checksum type="sha512">3586116463ebb2533be7e246eed2a6f9ef08908c378974ccad5f2c15408d7c64af94e42723fbc822a73cf95ba3b3148248671f8da13f7607dfc00431bf4a8bf4</Checksum>
+        <Checksum type="spamsum">3:2VaOO/sOe7nos//l:pOOEOe7os//l</Checksum>
+        <Checksum type="fletcher16">c4e9</Checksum>
+        <Checksum type="fletcher32">4a7a02e7</Checksum>
+      </Checksums>
+    </TOC>
+    <Track>
+      <Image format="BINARY">Adobe_Elements_2_0.aaruf</Image>
+      <Size>777726432</Size>
+      <Sequence>
+        <TrackNumber>1</TrackNumber>
+        <Session>1</Session>
+      </Sequence>
+      <StartSector>0</StartSector>
+      <EndSector>330665</EndSector>
+      <Indexes>
+        <Index index="0">-150</Index>
+        <Index index="1">0</Index>
+      </Indexes>
+      <Flags>
+        <Quadraphonic>false</Quadraphonic>
+        <Data>true</Data>
+        <CopyPermitted>false</CopyPermitted>
+        <PreEmphasis>false</PreEmphasis>
+      </Flags>
+      <TrackType>mode1</TrackType>
+      <BytesPerSector>2048</BytesPerSector>
+      <Checksums>
+        <Checksum type="adler32">c8baa362</Checksum>
+        <Checksum type="crc16">8f73</Checksum>
+        <Checksum type="crc32">ecb7fdfa</Checksum>
+        <Checksum type="crc64">a7eb68c689b26bb8</Checksum>
+        <Checksum type="md5">8789c64651609f84f6f20c41be5600f9</Checksum>
+        <Checksum type="sha1">d5c9ce7a6ee90284551e7755cdfbb627dcdc5e48</Checksum>
+        <Checksum type="sha256">02f7a857508f73367e6d523eae1223ff52850284ee27f7fb97318aa7c0353b75</Checksum>
+        <Checksum type="sha384">e24d21a3d87293b8bdd4bf776345bf2fb69be550c9fa2635f25bc08ffd59c1010520530f478a0f176ac48723ea0899a0</Checksum>
+        <Checksum type="sha512">d061b697ef7ad214d6edc361ad55959de62efdd4805e342889034104f2dd27b86213085852175cf6fbef778d07e687fea312dcef8c2f00b1bcd3b5282998ee1f</Checksum>
+        <Checksum type="spamsum">12582912:xXEoClT/sFQSXJ4OZDT5AUZ4UiN+xlkVLEWW6KEJaylYPVpQjjaoDgggR:yoIT/sFQSXJXpqN0MEBTnP0jaoUP</Checksum>
+        <Checksum type="fletcher16">4ed8</Checksum>
+        <Checksum type="fletcher32">67e6def9</Checksum>
+      </Checksums>
+      <FileSystemInformation>
+        <Partition>
+          <Sequence>0</Sequence>
+          <Name>Track 1</Name>
+          <Type>CdMode1</Type>
+          <StartSector>0</StartSector>
+          <EndSector>330665</EndSector>
+          <FileSystems>
+            <FileSystem>
+              <Type>ISO9660</Type>
+              <CreationDate>2003-01-13T14:22:28Z</CreationDate>
+              <ModificationDate>2003-01-13T14:27:04Z</ModificationDate>
+              <ClusterSize>2048</ClusterSize>
+              <Clusters>330516</Clusters>
+              <Bootable>false</Bootable>
+              <VolumeName>Elements</VolumeName>
+              <Dirty>false</Dirty>
+              <SystemIdentifier>APPLE COMPUTER, INC., TYPE: 0002</SystemIdentifier>
+              <VolumeSetIdentifier>NOT_SET</VolumeSetIdentifier>
+              <PublisherIdentifier />
+              <DataPreparerIdentifier />
+              <ApplicationIdentifier>TOAST ISO 9660 BUILDER COPYRIGHT (C) 1997 ADAPTEC, INC. - HAVE A NICE DAY</ApplicationIdentifier>
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+        <Partition>
+          <Sequence>1</Sequence>
+          <Name>Toast 4.1 Partition</Name>
+          <Type>Apple_HFS</Type>
+          <StartSector>140371</StartSector>
+          <EndSector>330514</EndSector>
+          <Description>Partition flags:
+Partition is valid.
+Partition entry is allocated.
+Partition is readable.
+</Description>
+          <FileSystems>
+            <FileSystem>
+              <Type>HFS</Type>
+              <CreationDate>2003-01-13T14:11:10</CreationDate>
+              <ModificationDate>2003-01-13T14:31:02</ModificationDate>
+              <ClusterSize>8192</ClusterSize>
+              <Clusters>47535</Clusters>
+              <Files>69</Files>
+              <Bootable>false</Bootable>
+              <VolumeName>Photoshop Elements 2.0</VolumeName>
+              <FreeClusters>1</FreeClusters>
+              <Dirty>false</Dirty>
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+      </FileSystemInformation>
+    </Track>
+    <DumpHardwareArray>
+      <DumpHardware>
+        <Manufacturer>HL-DT-ST</Manufacturer>
+        <Model>DVDRAM GU70N</Model>
+        <Firmware>LS20</Firmware>
+        <Serial>M2FDBDK5936</Serial>
+        <Extents>
+          <Extent>
+            <Start>0</Start>
+            <End>330665</End>
+          </Extent>
+        </Extents>
+        <Software>
+          <Name>Aaru</Name>
+          <Version>5.4.2.0</Version>
+          <OperatingSystem>Linux</OperatingSystem>
+        </Software>
+      </DumpHardware>
+    </DumpHardwareArray>
+  </OpticalDisc>
+</CICMMetadata>

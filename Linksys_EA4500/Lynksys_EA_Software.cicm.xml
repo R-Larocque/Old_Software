@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CICMMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpticalDisc>
+    <Image format="Aaru" offset="0">Lynksys_EA_Software.aaruf</Image>
+    <Size>20279915</Size>
+    <Sequence>
+      <MediaSequence>1</MediaSequence>
+      <TotalMedia>1</TotalMedia>
+    </Sequence>
+    <Checksums>
+      <Checksum type="adler32">1a5881a2</Checksum>
+      <Checksum type="crc16">a2b1</Checksum>
+      <Checksum type="crc32">52fa2aca</Checksum>
+      <Checksum type="crc64">5b6b6473e426f7e9</Checksum>
+      <Checksum type="md5">db47954a76356b32f1377e98ddf4ba87</Checksum>
+      <Checksum type="sha1">abf817d44b544fde685135ae1bfd2a664134c3f4</Checksum>
+      <Checksum type="sha256">1c9b84c9f66a9697b8b24f67ad1e3fe1c6565fdf11188bfee6f6061ddfa2ba84</Checksum>
+      <Checksum type="sha384">fe624a5e8eba1240ac3a44c030a427021403c07f90038c637f0f6619e3fc69a31682f1b70c15268aba967b1f34471514</Checksum>
+      <Checksum type="sha512">3796388b953c8ab51fa53a46a04872ecfb4e403fd43bc435a1e6c3f9bfce2f21e0f04e2ba961530458be279e13a56a03c5786555ef4f87049855f6a2cc9435c2</Checksum>
+      <Checksum type="spamsum">393216:6o3EK5HH5p6PxXeiKuu21Xz8Ttf+WXN3gr5HXIbPvE00EbVwuW1el:6XS6PxODuX1XQ5fhURIbECPW1C</Checksum>
+      <Checksum type="fletcher16">4b8a</Checksum>
+      <Checksum type="fletcher32">82c81377</Checksum>
+    </Checksums>
+    <DiscType>Compact Disc</DiscType>
+    <DiscSubType>CD-ROM</DiscSubType>
+    <Tracks>1</Tracks>
+    <Sessions>1</Sessions>
+    <Dimensions>
+      <Diameter>120</Diameter>
+      <Thickness>1.2</Thickness>
+    </Dimensions>
+    <TOC>
+      <Image>./Lynksys_EA_Software.aaruf</Image>
+      <Size>46</Size>
+      <Checksums>
+        <Checksum type="adler32">454c0283</Checksum>
+        <Checksum type="crc16">e731</Checksum>
+        <Checksum type="crc32">e65f8226</Checksum>
+        <Checksum type="crc64">3d845730901ce3a8</Checksum>
+        <Checksum type="md5">0ea30a5b5610161b49f590443d2bb478</Checksum>
+        <Checksum type="sha1">d27aff6d0cf780708c1d0ccb7fbcef06bf20967a</Checksum>
+        <Checksum type="sha256">db66a250c4bfeba5893f06c0011ab17f650f539eefb82801a04f2186dc4c374c</Checksum>
+        <Checksum type="sha384">97c07c630d1cce95485deb050aff494a8751d410b6294948047d52e3c6713d292b9fc38c2d219034cb2d4d49ff7c51f7</Checksum>
+        <Checksum type="sha512">9e18afd841348571ce4e6083f1608a4de99feea57928f0629822d3214b3c44e7aa9393a15eda279704bd3c696670754e1497748c38ec330ed02b2aa8c594173d</Checksum>
+        <Checksum type="spamsum">3:2VaOO/sOQn0ll/l:pOOEOQncl/l</Checksum>
+        <Checksum type="fletcher16">6384</Checksum>
+        <Checksum type="fletcher32">451e0282</Checksum>
+      </Checksums>
+    </TOC>
+    <Track>
+      <Image format="BINARY">Lynksys_EA_Software.aaruf</Image>
+      <Size>74226768</Size>
+      <Sequence>
+        <TrackNumber>1</TrackNumber>
+        <Session>1</Session>
+      </Sequence>
+      <StartSector>0</StartSector>
+      <EndSector>31558</EndSector>
+      <Indexes>
+        <Index index="0">-150</Index>
+        <Index index="1">0</Index>
+      </Indexes>
+      <Flags>
+        <Quadraphonic>false</Quadraphonic>
+        <Data>true</Data>
+        <CopyPermitted>false</CopyPermitted>
+        <PreEmphasis>false</PreEmphasis>
+      </Flags>
+      <TrackType>mode1</TrackType>
+      <BytesPerSector>2048</BytesPerSector>
+      <Checksums>
+        <Checksum type="adler32">90d94a01</Checksum>
+        <Checksum type="crc16">7f15</Checksum>
+        <Checksum type="crc32">60ada49f</Checksum>
+        <Checksum type="crc64">2929f37569d2b1a4</Checksum>
+        <Checksum type="md5">4f61169dd0ec9a4907691969f41dad2a</Checksum>
+        <Checksum type="sha1">dab00e42ca0d66499b3229ad267336bd4f6c6223</Checksum>
+        <Checksum type="sha256">72ef8f2b222b4b99816b7815e4c3e69ea04b4d41051661c004280725f53990f4</Checksum>
+        <Checksum type="sha384">e9754e341dcf9e7e5658da10c03e681ebf12578bac4e2374cf54983850b8f983639785e6ae40c353d4c3d0110c6eb6b9</Checksum>
+        <Checksum type="sha512">6d5840bd3c1fb2adb25de7d0c78d383acce4c24de805f6b9ce1687a2b36717b6f5c422924935674659249790d72e23137c468b63b6409f709264852db5ecff77</Checksum>
+        <Checksum type="spamsum">786432:ox1rDmqAiNZKHMqjY3y7itK98xEmTVzVTrXqB11/Gc7XXaoR:CwoN5q8yitK9mT92PjTFR</Checksum>
+        <Checksum type="fletcher16">124f</Checksum>
+        <Checksum type="fletcher32">011162ec</Checksum>
+      </Checksums>
+      <FileSystemInformation>
+        <Partition>
+          <Sequence>0</Sequence>
+          <Name>Track 1</Name>
+          <Type>CdMode1</Type>
+          <StartSector>0</StartSector>
+          <EndSector>31558</EndSector>
+          <FileSystems>
+            <FileSystem>
+              <Type>ISO9660</Type>
+              <CreationDate>2012-10-31T04:13:55Z</CreationDate>
+              <ModificationDate>2012-10-31T04:13:55Z</ModificationDate>
+              <ClusterSize>2048</ClusterSize>
+              <Clusters>31559</Clusters>
+              <Bootable>false</Bootable>
+              <VolumeName>Setup</VolumeName>
+              <Dirty>false</Dirty>
+              <EffectiveDate>2012-10-31T04:13:55Z</EffectiveDate>
+              <SystemIdentifier>Win32</SystemIdentifier>
+              <VolumeSetIdentifier />
+              <PublisherIdentifier />
+              <DataPreparerIdentifier />
+              <ApplicationIdentifier>MKISOFS ISO 9660/HFS FILESYSTEM BUILDER &amp; CDRECORD CD-R/DVD CREATOR (C) 1993 E.YOUNGDALE (C) 1997 J.PEARSON/J.SCHILLING</ApplicationIdentifier>
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+      </FileSystemInformation>
+    </Track>
+    <DumpHardwareArray>
+      <DumpHardware>
+        <Manufacturer>HL-DT-ST</Manufacturer>
+        <Model>DVDRAM GU70N</Model>
+        <Firmware>LS20</Firmware>
+        <Serial>M2FDBDK5936</Serial>
+        <Extents>
+          <Extent>
+            <Start>0</Start>
+            <End>31558</End>
+          </Extent>
+        </Extents>
+        <Software>
+          <Name>Aaru</Name>
+          <Version>5.4.2.0</Version>
+          <OperatingSystem>Linux</OperatingSystem>
+        </Software>
+      </DumpHardware>
+    </DumpHardwareArray>
+  </OpticalDisc>
+</CICMMetadata>

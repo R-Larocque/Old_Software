@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CICMMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpticalDisc>
+    <Image format="Aaru" offset="0">Palm_Road_Scholar_CD.aaruf</Image>
+    <Size>50226228</Size>
+    <Sequence>
+      <MediaSequence>1</MediaSequence>
+      <TotalMedia>1</TotalMedia>
+    </Sequence>
+    <Checksums>
+      <Checksum type="adler32">9722e66f</Checksum>
+      <Checksum type="crc16">dae9</Checksum>
+      <Checksum type="crc32">8028723b</Checksum>
+      <Checksum type="crc64">e35143b0caf72d64</Checksum>
+      <Checksum type="md5">fca68ab4e848ba0463527398c2b40513</Checksum>
+      <Checksum type="sha1">df5d01bbc562a8ebbf7bd704c006818a88a6fd72</Checksum>
+      <Checksum type="sha256">3b569ab79c104e346f76f199fbdd9a4164089355b67b5d9c693f54c9926fb35e</Checksum>
+      <Checksum type="sha384">4555d3125976cacd67546f14a3121f2b433101117517ac8d1598df144fb45dc15fdade53a6f89b1e2f3bbae285c93f9f</Checksum>
+      <Checksum type="sha512">dd254d85e98b6493a428304dc29332e79eff8098c72ff34a789beb02d67e687c29352694b88b378f057bf2f5e0c037261fb034eac912a2cf44c1288dda7afe21</Checksum>
+      <Checksum type="spamsum">786432:RB5hlClFYKX0Q33ZpO4UbOakRxcP5eMWOQGxi+AHhQe/nOo9QGuH1WLK6l1HR/:T8F9OHbOLRxYjpQpQqbPuH1ERx</Checksum>
+      <Checksum type="fletcher16">c96c</Checksum>
+      <Checksum type="fletcher32">eedaf873</Checksum>
+    </Checksums>
+    <DiscType>Compact Disc</DiscType>
+    <DiscSubType>CD-ROM</DiscSubType>
+    <Tracks>1</Tracks>
+    <Sessions>1</Sessions>
+    <Dimensions>
+      <Diameter>120</Diameter>
+      <Thickness>1.2</Thickness>
+    </Dimensions>
+    <TOC>
+      <Image>/home/raphael/Documents/Palm_and_Retro_Uploads/Palm_Road_Scholar_CD.aaruf</Image>
+      <Size>46</Size>
+      <Checksums>
+        <Checksum type="adler32">45c5028b</Checksum>
+        <Checksum type="crc16">822e</Checksum>
+        <Checksum type="crc32">42708f87</Checksum>
+        <Checksum type="crc64">9630c3e7834a4a0e</Checksum>
+        <Checksum type="md5">754c16147f3a184b8a8c40d815927c95</Checksum>
+        <Checksum type="sha1">a31f93a5a15c4a2c5b154b6e7896c0f27b86baeb</Checksum>
+        <Checksum type="sha256">19530755df13e50fdd362b87705050e69e4a32bc464a9c8998957813a29aca68</Checksum>
+        <Checksum type="sha384">805265f98b011a4f7cfc3b94857171552c074d321ba397ceef1c5b2980b80309022c0fb7e68a6138f99561d75937365f</Checksum>
+        <Checksum type="sha512">4010812c9f964d434c6009e08f72c83266bb416b6d2a428f29c078fffc314ca1936e9b78352273fe5fc588f272318676b8afca3a826f83863ef1f3566575304d</Checksum>
+        <Checksum type="spamsum">3:2VaOO/sOQ+cI//l:pOOEOQq//l</Checksum>
+        <Checksum type="fletcher16">dc8c</Checksum>
+        <Checksum type="fletcher32">4597028a</Checksum>
+      </Checksums>
+    </TOC>
+    <Track>
+      <Image format="BINARY">Palm_Road_Scholar_CD.aaruf</Image>
+      <Size>78596784</Size>
+      <Sequence>
+        <TrackNumber>1</TrackNumber>
+        <Session>1</Session>
+      </Sequence>
+      <StartSector>0</StartSector>
+      <EndSector>33416</EndSector>
+      <Indexes>
+        <Index index="0">-150</Index>
+        <Index index="1">0</Index>
+      </Indexes>
+      <Flags>
+        <Quadraphonic>false</Quadraphonic>
+        <Data>true</Data>
+        <CopyPermitted>false</CopyPermitted>
+        <PreEmphasis>false</PreEmphasis>
+      </Flags>
+      <TrackType>mode1</TrackType>
+      <BytesPerSector>2048</BytesPerSector>
+      <Checksums>
+        <Checksum type="adler32">56cb9ea2</Checksum>
+        <Checksum type="crc16">0813</Checksum>
+        <Checksum type="crc32">ba6f7717</Checksum>
+        <Checksum type="crc64">febedfbad17231ac</Checksum>
+        <Checksum type="md5">5d6a4219f10330785f83dcf138f94a1e</Checksum>
+        <Checksum type="sha1">60d5a311c57925a793afeffcfef36390ef306d61</Checksum>
+        <Checksum type="sha256">4cb8914c59f492b0902c479073a0cdb9ba1eaecca7596794996a6dd5de7fd45b</Checksum>
+        <Checksum type="sha384">b446ef648f4184b5cf0dc33cb95391580a562c29c5c262888118dee19c66bdb3288b6f913c61bcfdc1a4f78de8caf2c2</Checksum>
+        <Checksum type="sha512">9c7890bb4356ebe3ab41013e76f760e1965f555e1f0eb211b2bc9d2ed951fd7b698a7112d87f451aee7382b6f2aa12f6379996e513930025604e0fe7bb210ee7</Checksum>
+        <Checksum type="spamsum">1572864:rTNCzN97c9V2NND6IwBAFQjley4fV+bMVb0qaPtlv:rTN2N1aVI2cQjl8B0qaFlv</Checksum>
+        <Checksum type="fletcher16">4a0f</Checksum>
+        <Checksum type="fletcher32">60e98a84</Checksum>
+      </Checksums>
+      <FileSystemInformation>
+        <Partition>
+          <Sequence>0</Sequence>
+          <Name>Track 1</Name>
+          <Type>CdMode1</Type>
+          <StartSector>0</StartSector>
+          <EndSector>33416</EndSector>
+          <FileSystems>
+            <FileSystem>
+              <Type>ISO9660</Type>
+              <CreationDate>2000-06-17T16:36:15Z</CreationDate>
+              <ModificationDate>2000-06-17T16:36:31Z</ModificationDate>
+              <ClusterSize>2048</ClusterSize>
+              <Clusters>33265</Clusters>
+              <Bootable>false</Bootable>
+              <VolumeName>RoadScholar</VolumeName>
+              <Dirty>false</Dirty>
+              <SystemIdentifier>APPLE COMPUTER, INC., TYPE: 0002</SystemIdentifier>
+              <VolumeSetIdentifier>NOT_SET</VolumeSetIdentifier>
+              <PublisherIdentifier />
+              <DataPreparerIdentifier />
+              <ApplicationIdentifier>TOAST ISO 9660 BUILDER COPYRIGHT (C) 1997 ADAPTEC, INC. - HAVE A NICE DAY</ApplicationIdentifier>
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+        <Partition>
+          <Sequence>1</Sequence>
+          <Name>Toast 4.1 HFS Optimizer</Name>
+          <Type>Apple_HFS</Type>
+          <StartSector>17446</StartSector>
+          <EndSector>33263</EndSector>
+          <Description>Partition flags:
+Partition is valid.
+Partition entry is allocated.
+Partition is readable.
+</Description>
+          <FileSystems>
+            <FileSystem>
+              <Type>HFS</Type>
+              <CreationDate>2000-06-10T14:43:10</CreationDate>
+              <ModificationDate>2000-06-17T16:36:16</ModificationDate>
+              <ClusterSize>2048</ClusterSize>
+              <Clusters>15816</Clusters>
+              <Files>117</Files>
+              <Bootable>false</Bootable>
+              <VolumeName>RoadScholar</VolumeName>
+              <FreeClusters>0</FreeClusters>
+              <Dirty>false</Dirty>
+            </FileSystem>
+          </FileSystems>
+        </Partition>
+      </FileSystemInformation>
+    </Track>
+    <DumpHardwareArray>
+      <DumpHardware>
+        <Manufacturer>HL-DT-ST</Manufacturer>
+        <Model>DVDRAM GU70N</Model>
+        <Firmware>LS20</Firmware>
+        <Serial>M2FDBDK5936</Serial>
+        <Extents>
+          <Extent>
+            <Start>0</Start>
+            <End>33416</End>
+          </Extent>
+        </Extents>
+        <Software>
+          <Name>Aaru</Name>
+          <Version>5.4.2.0</Version>
+          <OperatingSystem>Linux</OperatingSystem>
+        </Software>
+      </DumpHardware>
+    </DumpHardwareArray>
+  </OpticalDisc>
+</CICMMetadata>

@@ -1,0 +1,15 @@
+Adobe_Elements_2_0/Adobe_Elements_2_0.bin filter=lfs diff=lfs merge=lfs -text
+Asus_P4S533_Mobo/Asus_P4S533_Series.aaruf filter=lfs diff=lfs merge=lfs -text
+Asus_P4S533_Mobo/Asus_P4S533_Series.bin filter=lfs diff=lfs merge=lfs -text
+LG_Roxio_ECDC/LG_CD_Software_Roxio.bin filter=lfs diff=lfs merge=lfs -text
+WinXP_Home_FR_OEMPlus/WinXP_Home_FR_OEMPlus.iso filter=lfs diff=lfs merge=lfs -text
+WinXP_Home_FR_OEMPlus/WinXP_Home_FR_CA_OEMPlus.bin filter=lfs diff=lfs merge=lfs -text
+HP_OfficeJet_Pro_8710/HP_OfficeJet_Pro_8710.iso filter=lfs diff=lfs merge=lfs -text
+CA_BitWare/CA_BitWare.iso filter=lfs diff=lfs merge=lfs -text
+Palm_Desktop_3.1/Palm_IIIxe_Handheld_3.1.iso filter=lfs diff=lfs merge=lfs -text
+WinXP_Home_FR_OEMPlus/WinXP_Home_FR_OEMPlus.aaruf filter=lfs diff=lfs merge=lfs -text
+CA_BitWare/CA_BitWare.aaruf filter=lfs diff=lfs merge=lfs -text
+Adobe_Elements_2_0/Adobe_Elements_2_0.aaruf filter=lfs diff=lfs merge=lfs -text
+*.aaruf filter=lfs diff=lfs merge=lfs -text
+*.iso filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text

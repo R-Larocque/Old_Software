@@ -1,0 +1,35 @@
+Start logging at 23/11/2026 00:17:01
+################# System information #################
+Linux 7.3.0.10 (64-bit)
+.NET 8.0.20
+
+################# Program information ################
+Aaru 5.4.2+7266fca8.7266fca89be6b5182e7bfcba7243f76809df2a93
+Running in 64-bit
+Running as superuser: No
+Command line: /home/raphael/Documents/MPF/MPF.Avalonia_net11.0_linux-x64_debug/Programs/Aaru/aaru media dump -p 0 --subchannel none --speed 24 /dev/sr0 /home/raphael/Documents/Palm_and_Retro_Uploads/Palm_IIIxe_Handheld_3.1.aaruf
+
+################# Device information #################
+Manufacturer: HL-DT-ST
+Model: DVDRAM GU70N
+Firmware revision: LS20
+Serial number: M2FDBDK5936
+Removable device: True
+Device type: ATAPI
+CompactFlash device: False
+PCMCIA device: False
+USB device: False
+FireWire device: False
+######################################################
+
+################ Dumping progress log ################
+2026-11-23T00:17:01 Output image format: Aaru Format.
+2026-11-23T00:17:01 Device not in database, please create a device report and attach it to a Github issue.
+2026-11-23T00:17:01 Device not ready. Sense NotReady ASC 3Ah ASCQ 02h
+2026-11-23T00:17:03 Device not ready. Sense NotReady ASC 3Ah ASCQ 02h
+2026-11-23T00:17:05 Device not ready. Sense NotReady ASC 3Ah ASCQ 02h
+2026-11-23T00:17:07 Device not ready. Sense NotReady ASC 3Ah ASCQ 02h
+2026-11-23T00:17:09 Device not ready. Sense NotReady ASC 3Ah ASCQ 02h
+2026-11-23T00:17:11 Device not ready. Sense NotReady ASC 3Ah ASCQ 02h
+######################################################
+End logging at 23/11/2026 00:17:11
